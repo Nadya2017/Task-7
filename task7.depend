@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606845722 source:c:\users\Надя\desktop\inf\task7\main.cpp
+	<iostream>
+	<list>
+	<iterator>
+	<utility>
+
